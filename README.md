@@ -1,7 +1,8 @@
-## Hi there, I'm Shiva! 👋
+## Hi there, I'm Ganesh! 👋
 
-I am a *Full-Stack Java Developer* passionate about building scalable and efficient web applications.<br/> I specialize in *Java, Servlets, JDBC, and Spring Boot* for backend development and enjoy working with modern frontend technologies.<br/>  I am a *quick learner* who enjoys solving problems and improving my skills.  
-
+I am a *Frontend Web Developer* passionate about building scalable and efficient web applications.<br/> 
+I specialize in *Java, Servlets, JDBC, and Spring Boot* for backend development and enjoy working with modern frontend technologies.<br/>  
+I am a *quick learner* who enjoys solving problems and improving my skills.  
 
 🚀 Currently working on a *Food Delivery Application* using Java, Servlets, and JDBC.<br/>
 📚 Learning *DSA (Java)* and *MERN Stack*.<br/>
@@ -11,7 +12,10 @@ I am a *Full-Stack Java Developer* passionate about building scalable and effici
 ---
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva_bugslayer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psivaiah6174) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHIVA6174124345) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psivaiah6174@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva_bugslayer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psivaiah6174) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHIVA6174124345) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psivaiah6174@gmail.com)
 
 ---
 
@@ -23,28 +27,27 @@ I am a *Full-Stack Java Developer* passionate about building scalable and effici
 
 ---
 
-## ⚙ Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) ![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) <br/>
-![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge) ![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
----
-## 🗄 Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
----
 ## 📡 API Development
-![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
+
 ## ☁ Hosting / SaaS
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
 ---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA6174&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ---
 
 ## ✨ Dev Quote of the Day  
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&color=FF1493&center=true&vCenter=true&lines=Code%2C+test%2C+deploy%2C+repeat.;Keep+it+simple%2C+keep+it+fast.;Good+code+is+like+a+joke%2C+it+needs+no+explanation.;Talk+is+cheap%2C+show+me+the+code." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&color=FF1493&center=true&vCenter=true&lines=Code%2C+test%2C+deploy%2C+repeat.;Keep+it+simple%2C+keep+it+fast.;Good+code+is+like+a+joke%2C+it+needs+no+explanation.;Talk+is+cheap%2C+show+me+the+code." />
 </p>
