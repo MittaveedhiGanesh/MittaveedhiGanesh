@@ -39,11 +39,11 @@ I am a *quick learner* who enjoys solving problems and improving my skills.
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MittaveedhiGanes&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MittaveedhiGanes&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHIVA6174&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MittaveedhiGanesh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
