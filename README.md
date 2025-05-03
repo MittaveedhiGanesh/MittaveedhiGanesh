@@ -1,13 +1,13 @@
 ## Hi there, I'm Ganesh! 👋
 
-I am a *Frontend Web Developer* passionate about building scalable and efficient web applications.<br/> 
-I specialize in *Java, Servlets, JDBC, and Spring Boot* for backend development and enjoy working with modern frontend technologies.<br/>  
-I am a *quick learner* who enjoys solving problems and improving my skills.  
+I am a **Frontend Web Developer** passionate about building scalable and efficient web applications.<br/>
+I enjoy working with modern frontend technologies to create responsive and user-friendly interfaces.<br/>
+I am a *quick learner* who enjoys solving problems and improving my skills.
 
-🚀 Currently working on a *Food Delivery Application* using Java, Servlets, and JDBC.<br/>
+🚀 Currently working on a *Food Delivery Application* with dynamic UI components.<br/>
 📚 Learning *DSA (Java)* and *MERN Stack*.<br/>
-🤝 Looking to *collaborate* on full-stack projects.<br/>
-💬 Fun Fact: I speak multiple languages... but only to my computer!
+🤝 Looking to *collaborate* on frontend or full-stack projects.<br/>
+💬 *Fun Fact:* I speak multiple languages... but only to my computer!
 
 ---
 
@@ -27,13 +27,13 @@ I am a *quick learner* who enjoys solving problems and improving my skills.
 
 ---
 
-## 📡 API Development
+## 📡 API & Tools
 ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## ☁ Hosting / SaaS
+## ☁ Hosting
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
