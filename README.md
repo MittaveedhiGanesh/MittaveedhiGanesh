@@ -5,8 +5,8 @@ I enjoy working with modern frontend technologies to create responsive and user-
 I am a *quick learner* who enjoys solving problems and improving my skills.
 
 🚀 Currently working on a *Food Delivery Application* with dynamic UI components.<br/>
-📚 Learning *DSA (Java)* and *MERN Stack*.<br/>
-🤝 Looking to *collaborate* on frontend or full-stack projects.<br/>
+📚 Learning *Type Script* and *React Js*.<br/>
+🤝 Looking to *collaborate* on frontend projects.<br/>
 💬 *Fun Fact:* I speak multiple languages... but only to my computer!
 
 ---
